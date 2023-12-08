@@ -6,6 +6,7 @@
 A server information query page that supports automatic refresh, easy deployment, flexible customization, and automatic refresh.
 
 Demo：[https://bctc-squad.cn/show/](https://bctc-squad.cn/show/)
+
 DemoNginxCFG:
 ```
 location /show {
