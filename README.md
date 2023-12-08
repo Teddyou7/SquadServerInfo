@@ -8,6 +8,7 @@ A server information query page that supports automatic refresh, easy deployment
 ![cfg](https://z1.ax1x.com/2023/12/08/pigvUhR.png)
 ```
 { sort: '4', id: '18068008', name: '[西南多线]冲锋号#4-公开飞行训练服' },
+
 sort 排序顺序
 id battlemetrics服务器ID
 name 自定义服务器名称
