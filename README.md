@@ -3,7 +3,7 @@
 
 ## 通过直接编辑定义查询的服务器
 
-[cfg](https://z1.ax1x.com/2023/12/08/pigvUhR.png)
+![cfg](https://z1.ax1x.com/2023/12/08/pigvUhR.png)
 
 { sort: '4', id: '18068008', name: '[西南多线]冲锋号#4-公开飞行训练服' },
 
@@ -12,4 +12,4 @@ id battlemetrics服务器ID
 name 自定义服务器名称
 
 ## 示例
-[show](https://z1.ax1x.com/2023/12/08/pigvw1x.png)
+![show](https://z1.ax1x.com/2023/12/08/pigvw1x.png)
